@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "Pallow",
+	"description": "Domain macth anti phish tool",
+	"verison": "0.0.1",
+	"icons": {
+		"SIZE": "PATH/TBD"
+	},
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+	"permissions": [
+		"tabs",
+		"background"
+	]
+}
+	
