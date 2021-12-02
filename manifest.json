@@ -12,7 +12,11 @@
 	},
 	"permissions": [
 		"tabs",
-		"background"
+		"background",
+		"bookmarks"
+	],
+	"host_permissions": [
+
 	]
 }
 	
