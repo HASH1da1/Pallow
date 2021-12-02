@@ -4,7 +4,7 @@
 	"description": "Domain macth anti phish tool",
 	"verison": "0.0.1",
 	"icons": {
-		"SIZE": "PATH/TBD"
+		"128": "128.png"
 	},
 	"background": {
 		"scripts": ["background.js"],
