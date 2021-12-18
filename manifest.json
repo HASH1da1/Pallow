@@ -3,6 +3,7 @@
 	"name": "Pallow",
 	"description": "Domain match anti phish tool",
 	"verison": "0.0.1",
+	"homepage_url": "https://github.com/hash1da1/pallow",
 	"icons": {
 		"128": "128.png"
 	},
@@ -13,14 +14,16 @@
 	"permissions": [
 		"tabs",
 		"background",
-		"bookmarks"
+		"bookmarks",
+		"activetab"
 	],
 	"options_ui":{
 		"page": "options.html",
 		"chrome_style": true
 	},
 	"host_permissions": [
-
+		"*://*.mizuhobanck.co.jp",
+		"*"
 	]
 }
 	
