@@ -23,7 +23,8 @@
 	},
 	"host_permissions": [
 		"*://*.mizuhobanck.co.jp",
-		"*"
+		"*://*.mufg.jp",
+		""
 	]
 }
 	
