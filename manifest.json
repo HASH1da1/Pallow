@@ -28,6 +28,8 @@
 		"*://*.resonabank.co.jp",
 		"*://*.saitamaresona.co.jp",
 		"*://*sevenbank.co.jp",
+		"*://*hokkaidobank.co.jp",
+		"*://*.anser.ne.jp",
 		""
 	]
 }
